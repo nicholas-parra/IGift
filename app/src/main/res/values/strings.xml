@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayTracker</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="CreateNewAccount">Create new account</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="Email">Email</string>
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+</resources>
